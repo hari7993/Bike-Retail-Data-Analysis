@@ -1,3 +1,4 @@
+
 Bike-Share Data Analysis README
 
 Overview
@@ -39,6 +40,10 @@ Import the CSV files into the database.
 Execute the SQL queries to gain insights.
 Modify queries to explore additional hypotheses.
 visualized in POWER BI
+
+
+![image](https://github.com/user-attachments/assets/acb45fc3-7381-446d-8116-c95c15c8063a)
+
 
 Key Insights
 Profitability: Targeted marketing based on rider type and season.

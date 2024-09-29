@@ -47,6 +47,9 @@ visualized in POWER BI
 
 Key Insights
 Profitability: Targeted marketing based on rider type and season.
+
 Rider Behavior: Plan promotions based on weather and holiday impact.
+
 Operational Optimization: Allocate bikes effectively during peak periods.
+
 Forecasting: Use moving averages for inventory management and demand planning.

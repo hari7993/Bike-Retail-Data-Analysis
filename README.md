@@ -47,11 +47,8 @@ Demand Prediction: Calculate moving average demand over 3-hour windows.
 
 Usage
 Import the CSV files into the database.
-
 Execute the SQL queries to gain insights.
-
 Modify queries to explore additional hypotheses.
-
 visualized in POWER BI
 
 

@@ -21,24 +21,37 @@ SQL Analysis: Queries grouped into various analyses: Profit, Seasonal Demand, Ri
 Analysis Areas
 
 Profit Analysis: Calculate yearly profit and identify highest margins.
+
 Seasonal Demand: Analyze hourly demand by season and growth rates.
+
 Rider Behavior: Compare holiday vs. working day ridership and weather impact.
+
 Profit Contribution: Assess profit by rider type.
+
 Weather Impact: Analyze how weather affects riders and profitability.
+
 Demand Fluctuation: Compare weekend vs. weekday demand.
+
 Optimization: Identify busiest hours for better resource allocation.
+
 Yearly Trends: Compare hourly and weekly trends year-over-year.
+
 
 Advanced Analysis
 
 Weather & Rider Behavior: Correlate weather conditions with casual vs. registered riders.
+
 Peak Hours Analysis: Identify peak and off-peak hours by season.
+
 Demand Prediction: Calculate moving average demand over 3-hour windows.
 
 Usage
 Import the CSV files into the database.
+
 Execute the SQL queries to gain insights.
+
 Modify queries to explore additional hypotheses.
+
 visualized in POWER BI
 
 

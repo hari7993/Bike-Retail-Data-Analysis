@@ -1,12 +1,12 @@
 
-Bike-Share Data Analysis README
+ BIKE-SHARE DATA ANALYSIS README
 
 
-Overview
+OVERVIEW
 This project analyzes bike-sharing data across two years to identify trends, profitability, customer behavior, and demand patterns. The dataset includes hourly rentals, weather conditions, and rider types. SQL queries are used to derive actionable insights.
 
 
-Requirements
+REQURIMENTS
 MYSQL Environment: Required for executing queries.
 PowerBI : To visualize
 

@@ -8,7 +8,6 @@ MYSQL Environment: Required for executing queries.
 PowerBI : To visualize
 
 Data Sources:
-
 cost_table.csv: Pricing and COGS data.
 bike_share_yr_0.csv & bike_share_yr_1.csv: Hourly rental data.
 
@@ -36,14 +35,12 @@ Peak Hours Analysis: Identify peak and off-peak hours by season.
 Demand Prediction: Calculate moving average demand over 3-hour windows.
 
 Usage
-
 Import the CSV files into the database.
 Execute the SQL queries to gain insights.
 Modify queries to explore additional hypotheses.
 visualized in POWER BI
 
 Key Insights
-
 Profitability: Targeted marketing based on rider type and season.
 Rider Behavior: Plan promotions based on weather and holiday impact.
 Operational Optimization: Allocate bikes effectively during peak periods.

@@ -1,21 +1,24 @@
 
 Bike-Share Data Analysis README
 
+
 Overview
 This project analyzes bike-sharing data across two years to identify trends, profitability, customer behavior, and demand patterns. The dataset includes hourly rentals, weather conditions, and rider types. SQL queries are used to derive actionable insights.
+
 
 Requirements
 MYSQL Environment: Required for executing queries.
 PowerBI : To visualize
 
+
 Data Sources:
 cost_table.csv: Pricing and COGS data.
 bike_share_yr_0.csv & bike_share_yr_1.csv: Hourly rental data.
 
+
+
 Project Structure
-
 Data Import: Import CSV files to create tables (cost_table, bike_share_yr_0, bike_share_yr_1).
-
 SQL Analysis: Queries grouped into various analyses: Profit, Seasonal Demand, Rider Behavior, Profit Contribution, Weather Impact, Demand Fluctuation, Resource Allocation, and Comparative Trends.
 
 Analysis Areas
@@ -37,6 +40,7 @@ Optimization: Identify busiest hours for better resource allocation.
 Yearly Trends: Compare hourly and weekly trends year-over-year.
 
 
+
 Advanced Analysis
 
 Weather & Rider Behavior: Correlate weather conditions with casual vs. registered riders.
@@ -44,6 +48,8 @@ Weather & Rider Behavior: Correlate weather conditions with casual vs. registere
 Peak Hours Analysis: Identify peak and off-peak hours by season.
 
 Demand Prediction: Calculate moving average demand over 3-hour windows.
+
+
 
 Usage
 Import the CSV files into the database.

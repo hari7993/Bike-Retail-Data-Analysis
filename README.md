@@ -1,9 +1,9 @@
 
- BIKE-SHARE DATA ANALYSIS README
+ BIKE-Retail DATA ANALYSIS README
 
 
 OVERVIEW
-This project analyzes bike-sharing data across two years to identify trends, profitability, customer behavior, and demand patterns. The dataset includes hourly rentals, weather conditions, and rider types. SQL queries are used to derive actionable insights.
+This project analyzes bike-Retail data across two years to identify trends, profitability, customer behavior, and demand patterns. The dataset includes hourly rentals, weather conditions, and rider types. SQL queries are used to derive actionable insights.
 
 
 REQURIMENTS
